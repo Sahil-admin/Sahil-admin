@@ -1,5 +1,28 @@
-- 👋 Hi, I’m @Sahil-admin
-- 👀 I’m interested in linux administration and network security.
-- 🌱 I’m currently learning cybersecurity.
-- 💞️ I’m looking for co-op.
-- 📫 You can reach me by me email address which is sahilbhosle54@gmail.com
+# Hi, I'm Sahil 👋
+
+DevOps & Cybersecurity Engineer based in Canada 🇨🇦
+
+Currently working in Cybersecurity while building DevOps and Cloud automation projects focused on AWS, Terraform, Kubernetes, and monitoring solutions.
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+- AWS | Terraform | Kubernetes
+- CI/CD | Monitoring | Security
+- HashiCorp Terraform Associate Certified
+- AWS Cloud Practitioner Certified
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/sahil-sunil-bhosale-195100194
+- GitLab: https://www.gitlab.com/terraform4224809
+- Resume: https://drive.google.com/file/d/1pBiUM5Wv36Ty0bPQ6TDbHczIP4YRl9eY/view?usp=sharing
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) Gitlab projects:
+- https://gitlab.com/terraform4224809/projects/secure-network
+- https://gitlab.com/terraform4224809/projects/serverless-application
+- https://gitlab.com/terraform4224809/projects/ec2-monitoring
+- https://gitlab.com/terraform4224809/projects/kube-basic-provisioning
+- https://gitlab.com/terraform4224809/projects/monitoring-stack-kubes
+- https://gitlab.com/terraform4224809/templates/aws-modules
+- https://gitlab.com/terraform4224809/templates/terraform-template

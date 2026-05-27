@@ -8,9 +8,10 @@ DevOps & Cybersecurity Engineer based in Canada 🇨🇦
 
 Currently working in Cybersecurity while building DevOps and Cloud automation projects focused on AWS, Terraform, Kubernetes, and monitoring solutions.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,gitlab,prometheus,grafana&perline=6" />
+</p>
 
 - AWS | Terraform | Kubernetes
 - CI/CD | Monitoring | Security
